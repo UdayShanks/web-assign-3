@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+p{
+    color:white;
+    font-size: 20px;
+    padding:50px;
+    margin: 50px;
+}
+b{
+    color:blanchedalmond
+}
+label{
+    color:blanchedalmond
+}
+option{
+    color:black
+}
+form{
+    margin:200px 250px 250px 450px;
+    
+}
